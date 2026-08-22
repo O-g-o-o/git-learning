@@ -8,3 +8,6 @@ This is my first project for learning Git and Github.
 
 # Branch Practice
 I am learning how Git branches work.
+
+## About This Project
+This repository documents my journey learning Git and GitHub.
